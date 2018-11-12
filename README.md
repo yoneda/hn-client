@@ -1,14 +1,14 @@
 ## hn-client
-hacker-news client  implement in React+Redux
+hacker-news client app implement in React+Redux
 
 ## demo
 https://yonedaco.github.io/hn-client/
 
 ## how to use
- install
-`npm install`
-run
-`npm run start`
+ install  
+`npm install`  
+run  
+`npm run start`  
 
 ## thanks
 https://github.com/HackerNews/API

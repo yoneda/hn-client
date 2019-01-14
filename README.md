@@ -2,7 +2,7 @@
 hacker-news client app implement in React+Redux
 
 ## demo
-https://yonedaco.github.io/hn-client/
+https://yoneda.github.io/hn-client/
 
 ## how to use
  install  
